@@ -18,39 +18,39 @@
   - type: 🖐️ used
   - primitive types: 🖐️ used
   - reference types: 🖐️ used
-  - flag: 👂 heard
+  - flag: 🎓 known
   - lexical scope: 👂 heard
-  - code block: 👂 heard
+  - code block: 🎓 known
   - conditions: 🖐️ used
   - loops: 🖐️ used
   - assignment: 🖐️ used
-  - regular expression: 👂 heard
-  - interface: 👂 heard
-  - contract
-  - module
+  - regular expression: 🙋 explained
+  - interface: 🎓 known
+  - contract: 🎓 known
+  - module: 🎓 known
   - call stack: 👂 heard
 - Functions
   - signature: 🖐️ used
   - argument: 🖐️ used
   - parameter: 🖐️ used
-  - pure function
-  - lambda expression
-  - side effects
-  - closure: 👂 heard
+  - pure function: 👂 heard
+  - lambda expression: 👂 heard
+  - side effects: 🖐️ used
+  - closure: 🎓 known
   - partial application: 👂 heard
   - curry
   - higher order
   - recursion: 👂 heard
   - callback: 🎓 known
-  - listener
+  - listener: 👂 heard
   - compose
   - pipe
-  - memoize: 👂 heard
+  - memoize: 🎓 known
   - wrapper
   - functor
-  - monad
+  - monad: 👂 heard
   - monoid
-  - generator: 👂 heard
+  - generator: 🎓 known
   - coroutine: 👂 heard
 - Data structures
   - array: 🖐️ used
@@ -62,16 +62,16 @@
   - class: 🎓 known
   - collection: 🎓 known
   - set: 🖐️ used
-  - hash table: 👂 heard
-  - linked list: 👂 heard
-  - doubly list: 👂 heard
-  - unrolled list: 👂 heard
-  - circular list: 👂 heard
-  - queue
-  - stack
-  - deque
-  - tree
-  - graph
+  - hash table: 🎓 known
+  - linked list: 🎓 known
+  - doubly list: 🎓 known
+  - unrolled list: 🎓 known
+  - circular list: 🎓 known
+  - queue: 👂 heard
+  - stack: 👂 heard
+  - deque: 👂 heard
+  - tree: 🎓 known
+  - graph: 🎓 known
   - iterator: 👂 heard
   - mutable state
   - immutable state
@@ -82,14 +82,14 @@
   - transpiler: 🎓 known
   - linter: 👂 heard
   - polyfill: 👂 heard
-  - debugger: 👂 heard
+  - debugger: 🎓 known
   - garbage collection: 👂 heard
-  - refactoring: 👂 heard
-  - code review: 👂 heard
+  - refactoring: 🙋 explained
+  - code review: 🙋 explained
   - antipatterns: 👂 heard
-  - paradigm: 👂 heard
+  - paradigm: 🎓 known
   - algorithm: 🎓 known
-  - magic numbers: 👂 heard
+  - magic numbers: 🙋 explained
   - hardcode: 🎓 known
   - complexity: 👂 heard
   - decomposition: 👂 heard
@@ -99,8 +99,8 @@
   - dead code: 🎓 known
   - unreachable code: 🎓 known
   - duplicate code: 🎓 known
-  - exception: 👂 heard
-  - return early: 👂 heard
-  - unittest: 👂 heard
+  - exception: 🎓 known
+  - return early: 🎓 known
+  - unittest: 🎓 known
   - git: 🖐️ used
   - github: 🖐️ used
