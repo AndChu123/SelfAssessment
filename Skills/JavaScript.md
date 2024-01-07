@@ -1,10 +1,10 @@
 ## JavaScript
 
 - Language
-  - Object
+  - Object: 🎓 known
   - this
-  - arrow function
-  - async function
+  - arrow function: 🎓 known
+  - async function: 👂 heard
   - call
   - bind
   - apply
@@ -26,10 +26,10 @@
   - getters and setters
   - __proto__
   - prototype
-  - equality operators
-  - logical operators
-  - bitwise operators
-  - ternary operator
+  - equality operators: 🎓 known
+  - logical operators: 🎓 known
+  - bitwise operators: 👂 heard
+  - ternary operator: 👂 heard
   - void
   - yield
   - await
@@ -41,15 +41,15 @@
   - Symbol
   - Reflect
 - Statements
-  - if
-  - while
-  - do..while
-  - for
-  - for..in
-  - for..of
-  - for await
+  - if: 🎓 known
+  - while: 🎓 known
+  - do..while: 🎓 known
+  - for: 🎓 known
+  - for..in: 🎓 known
+  - for..of: 🎓 known
+  - for await: 🎓 known
   - throw
-  - break
+  - break: 🎓 known
   - continue
   - import
   - export
@@ -60,13 +60,13 @@
   - new Error
   - with
 - Functions
-  - function declaration
-  - function expression
-  - return
-  - default parameters
-  - functional object
+  - function declaration: 🎓 known
+  - function expression: 🎓 known
+  - return: 🎓 known
+  - default parameters: 🎓 known
+  - functional object: 👂 heard
 - Data structures
-  - Array
+  - Array: 🎓 known
   - mixin
   - extend
   - typed arrays
@@ -78,7 +78,7 @@
   - weak collections
   - timers
   - EventEmitter
-  - RegExp
+  - RegExp: 👂 heard
   - Date
   - BigInt
 - Infrastructure
